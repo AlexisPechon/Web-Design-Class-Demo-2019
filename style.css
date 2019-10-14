@@ -1,0 +1,70 @@
+.divOne {
+	width: 400px;
+	height: 300px;
+	background-color: orange;
+	text-align: center;
+}
+
+.Home {
+	padding: 125px;
+}
+
+.divTwo {
+	width: 400px;
+	height: 300px;
+	margin: 0 auto;
+	background-color: orange;
+	margin-top: -295px;
+	text-align: center;
+}
+
+.About {
+	padding: 125px;
+}
+
+.divThree {
+	width: 400px;
+	height: 300px;
+	float: right;
+	background-color: orange;
+	text-align: center;
+	margin-top: -295px;
+}
+
+.Contact {
+	padding: 125px;
+}
+
+.divFour {
+	width: 100%;
+	height: 300px;
+	background-color: gray;
+	margin-top: 15px;
+}
+
+.divFive {
+	background-color: black;
+	width: 50%;
+	height: 200px;
+	text-align: center;
+	color: white;
+	margin-top: 10px;
+}
+
+.reference {
+	padding: 80px;
+}
+
+.divSix {
+	background-color: black;
+	width: 50%;
+	height: 200px;
+	text-align: center;
+	color: white;
+	margin-top: -200px;
+	float: right;
+}
+
+.year {
+	padding: 80px;
+}
